@@ -39,7 +39,7 @@ nav {
     list-style: none;
     gap: 15px;
     margin: 0;
-    padding: 0; 
+    padding: 3; 
 }
 
 .nav-right a {
